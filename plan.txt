@@ -1,0 +1,9 @@
+We need:
+
+* A picture uploading interface
+* A directory of image files
+* A directory of md files
+* A config thingee (script maybe?) that says where to publish stuff to
+* A font directory
+* A php page that gives a list of the md files
+* an MD editor that lets users save drafts and browse image files

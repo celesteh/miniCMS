@@ -1,5 +1,5 @@
 # miniCMS
-A tiny web insteface to HUGO. 
+A tiny web interface to HUGO. 
 This is designed to work either on a normal website, or on a LAN that does not have access to the larger internet.
 
 ## Includes
